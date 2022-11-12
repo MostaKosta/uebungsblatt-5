@@ -1,0 +1,10 @@
+Ship.java :
+ich habe eine Frage bitte , und zwar soll mann dieses Code mit dem StdDraw datei irgendwie 
+verbinden oder nicht ? und bitte wie kann mann diese Foto anschauen (print) , danke im Voraus.
+
+Histogram.java:
+double min = Double.parsedouble(args[0]);
+double max = Double.parseDouble(args[1]);
+int n = Integer.parseInt(args[2]);
+will the given variable like in the exemple 0 90 9 automatically stored in args[]?
+ 
